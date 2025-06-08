@@ -5,6 +5,6 @@ This Spring Boot application provides REST endpoints to manage shell-based tasks
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/sSaiTharun726/kaiburr-task1.git
+git clone https://github.com/SaiTharun726/kaiburr-task1.git
 cd kaiburr-task1
 mvn spring-boot:run
